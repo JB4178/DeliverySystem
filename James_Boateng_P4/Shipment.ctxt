@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Shipment
+comment0.text=\n\ Write\ a\ description\ of\ class\ Shipment\ here.\n\n\ @author\ (James\ Kofi\ Boateng)\n\ @version\ (12/05/2022)\n
+comment1.params=id\ source\ destination
+comment1.target=Shipment(int,\ Warehouse,\ Warehouse)
+comment2.params=
+comment2.target=int\ getSize()
+comment2.text=\n\ Returns\ the\ size\n
+comment3.params=
+comment3.target=int\ getId()
+comment3.text=\n\ Returns\ the\ ID\n
+comment4.params=
+comment4.target=boolean\ picked()
+comment4.text=\n\ Returns\ true\ if\ the\ shipment\ has\ been\ picked\ up\n
+comment5.params=picked
+comment5.target=void\ setPicked(boolean)
+comment5.text=\n\ Set\ picked\n
+numComments=6

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Simulation
+comment0.text=\n\ Write\ a\ description\ of\ class\ Simulation\ here.\n\n\ @author\ (James\ Kofi\ Boateng)\n\ @version\ (12/05/2022)\n
+comment1.params=
+comment1.target=Simulation()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Simulation\n
+comment2.params=
+comment2.target=void\ generateShipments()
+comment2.text=\n\ Generates\ shipments\n
+comment3.params=
+comment3.target=void\ generateTrucks()
+comment3.text=\n\ Generates\ the\ trucks\n
+comment4.params=
+comment4.target=void\ generateWarehouses()
+comment4.text=\n\ Generate\ the\ warehouses\n
+comment5.params=
+comment5.target=Truck\ getRandomTruck()
+comment5.text=\n\ Gets\ a\ random\ truck\ from\ the\ list\ of\ truck\n
+comment6.params=maxTrucks\ maxShipments\ maxWarehouses
+comment6.target=void\ setElements(int,\ int,\ int)
+comment6.text=\n\ Set\ maxElements\n
+comment7.params=warehouse
+comment7.target=Warehouse\ getRandomWarehouse(Warehouse)
+comment7.text=\n\ Gets\ a\ random\ warehouse\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

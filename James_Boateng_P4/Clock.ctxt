@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Clock
+comment0.text=\n\ Write\ a\ description\ of\ class\ Clock\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=trucks\ warehouses
+comment1.target=Clock(java.util.List,\ java.util.List)
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=
+comment3.target=int\ getTime()
+numComments=4

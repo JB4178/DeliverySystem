@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Schedule
+comment0.text=\n\ Write\ a\ description\ of\ interface\ Schedule\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ action()
+comment1.text=\n\ Called\ each\ hour,\ allowing\ the\ object\ to\ perform\ an\ action.\n
+comment2.params=
+comment2.target=void\ log_status()
+comment2.text=\n\ Will\ store\ the\ object\u2019s\ current\ information\ into\ a\ log\ file.\n
+numComments=3

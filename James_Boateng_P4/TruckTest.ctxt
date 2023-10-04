@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TruckTest
+comment0.text=\n\ The\ test\ class\ TruckTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=TruckTest()
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ TruckTest\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ test_printPos()
+comment3.text=\n\ Tests\ the\ printPos()\ method\n
+comment4.params=
+comment4.target=void\ test_getSpeed()
+comment4.text=\n\ Tests\ the\ getSpeed()\ method\n
+comment5.params=
+comment5.target=void\ test_move()
+comment5.text=\n\ Tests\ the\ move\ method\n
+comment6.params=
+comment6.target=void\ tearDown()
+comment6.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+numComments=7

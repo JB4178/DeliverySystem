@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PickupComparator
+comment0.text=\n\ Write\ a\ description\ of\ class\ PickupComparator\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=truck
+comment1.target=PickupComparator(Truck)
+comment2.params=s1\ s2
+comment2.target=int\ compare(Shipment,\ Shipment)
+comment3.params=warehouse
+comment3.target=int\ distance(Warehouse)
+numComments=4

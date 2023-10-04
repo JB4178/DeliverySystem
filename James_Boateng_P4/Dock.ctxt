@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Dock
+comment0.text=\n\ Write\ a\ description\ of\ class\ Dock\ here.\n\n\ @author\ (James\ Kofi\ Boateng)\n\ @version\ (12/05/2022)\n
+comment1.params=
+comment1.target=Dock()
+comment2.params=occupied
+comment2.target=void\ setOccupied(boolean)
+comment3.params=
+comment3.target=boolean\ isOccupied()
+comment4.params=
+comment4.target=Truck\ getTruck()
+comment5.params=truck
+comment5.target=void\ setTruck(Truck)
+numComments=6
